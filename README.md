@@ -1,21 +1,4 @@
-# 🛍️ Smart Retail Sales Analysis
-
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B.svg)](https://streamlit.io/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML%20Models-F7931E.svg)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-An end-to-end **Data Analytics & Machine Learning** project that analyzes retail
-sales performance, uncovers business insights, predicts future sales using
-regression models, and presents everything through an interactive **Streamlit
-dashboard**.
-
-Built as a portfolio-ready submission for **Data Analyst / Data Science
-internship applications**.
-
----
-
-## 📌 Project Description
+ Project Description
 
 Retail businesses generate large volumes of transactional data — but raw data
 alone tells no story. **Smart Retail Sales Analysis** turns a messy,
